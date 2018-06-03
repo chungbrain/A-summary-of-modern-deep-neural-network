@@ -5,8 +5,10 @@
 
 
 1. CNN 편 upload 완료 (June 2, 2018) 
+```
+   다운로드 : "그림으로 보는 DNN 근 현대사 CNN편_이충기_filesize_reduction.pptx"
    최신 CNN 이론과 기본지식을 얻는데 부족함이 없을것임
-   
+```   
 2. Semantic segmentation 편 예정
 
 3. RNN 편 예정
