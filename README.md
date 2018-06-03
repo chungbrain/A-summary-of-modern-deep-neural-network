@@ -15,6 +15,7 @@
 
 
 참고문헌
+
 http://cs231n.stanford.edu/
 
 http://emergent-enterprise.com/2016/10/why-deep-learning-is-suddenly-changing-your-life-part-ii/
