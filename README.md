@@ -16,11 +16,19 @@
 
 참고문헌
 http://cs231n.stanford.edu/
+
 http://emergent-enterprise.com/2016/10/why-deep-learning-is-suddenly-changing-your-life-part-ii/
+
 https://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html
+
 https://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
+
 Andrew Ng, Coursera
+
 https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+
 https://laonple.blog.me
+
 http://darkpgmr.tistory.com/132 
+
 https://www.udacity.com/course/ud730
